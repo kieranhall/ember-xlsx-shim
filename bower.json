@@ -1,0 +1,7 @@
+{
+  "name": "ember-xlsx-shim",
+  "dependencies": {},
+  "devDependencies": {
+    "js-xlsx": "^0.8.4"
+  }
+}

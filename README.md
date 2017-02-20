@@ -1,11 +1,10 @@
 # ember-xlsx-shim
 
-This README outlines the details of collaborating on this Ember addon.
+Import [xlsx](https://github.com/SheetJS/js-xlsx) as an ES6 module into your Ember CLI app.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-xlsx-shim`
+* `git clone` this repository
 * `npm install`
 * `bower install`
 

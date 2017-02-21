@@ -2,6 +2,6 @@
 module.exports = {
   normalizeEntityName: function () {},
   afterInstall: function() {
-    return this.addBowerPackageToProject('xlsx');
+    return this.addBowerPackageToProject('js-xlsx');
   }
 };

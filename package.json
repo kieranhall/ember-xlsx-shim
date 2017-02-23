@@ -1,7 +1,7 @@
 {
   "name": "ember-xlsx-shim",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember CLI shim to import xlsx js library as an ES6 module.",
   "keywords": [
     "ember-addon",
     "xlsx",

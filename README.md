@@ -1,5 +1,7 @@
 # ember-xlsx-shim
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kieranhall/ember-xlsx-shim.svg)](https://greenkeeper.io/)
+
 Import [xlsx](https://github.com/SheetJS/js-xlsx) as an ES6 module into your Ember CLI app.
 
 ## Installation

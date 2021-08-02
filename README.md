@@ -1,26 +1,39 @@
-# ember-xlsx-shim
+ember-xlsx-shim
+==============================================================================
 
 Import [xlsx](https://github.com/SheetJS/js-xlsx) as an ES6 module into your Ember CLI app.
 
-## Installation
 
 * `git clone` this repository
 * `npm install`
 * `bower install`
 
-## Running
+* Ember.js v3.20 or above
+* Ember CLI v3.20 or above
+* Node.js v10 or above
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
 
-## Running Tests
+Installation
+------------------------------------------------------------------------------
 
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+```
+ember install ember-xlsx-shim
+```
 
-## Building
 
-* `ember build`
+Usage
+------------------------------------------------------------------------------
 
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+[Longer description of how to use the addon in apps.]
+
+
+Contributing
+------------------------------------------------------------------------------
+
+See the [Contributing](CONTRIBUTING.md) guide for details.
+
+
+License
+------------------------------------------------------------------------------
+
+This project is licensed under the [MIT License](LICENSE.md).
